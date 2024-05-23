@@ -42,6 +42,13 @@
 			<scope>test</scope>
 		</dependency>
 
+		<!-- Thymeleaf Dependency -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
+		<!-- End of Thymeleaf Dependency -->
+
 <!--		Swagger UI Dependency-->
 
 		<dependency>
